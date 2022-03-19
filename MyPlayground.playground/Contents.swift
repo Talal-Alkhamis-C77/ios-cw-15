@@ -7,4 +7,4 @@ struct Student{
     var attendance: Bool
     
 }
-Student(name: "meow", age: 5, grade: 60, attendance: false)
+var mewo = (name: "meow", age: 5, grade: 60, attendance: false)
